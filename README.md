@@ -1,3 +1,7 @@
 Hello!
 
-I'm Nico, uhhh, idk what else to put here!
+I'm Nico,
+
+You can reach me at hello (at) niiccoo2.xyz
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niiccoo2)](https://github.com/anuraghazra/github-readme-stats)
